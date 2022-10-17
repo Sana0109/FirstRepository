@@ -1,4 +1,4 @@
-package com.animal;
+package models;
 
 public class Cat {
     private  String firstCat;
